@@ -1,4 +1,4 @@
-# flutter_getx_example
+# Flutter Getx Example
 
 A new Flutter project.
 
